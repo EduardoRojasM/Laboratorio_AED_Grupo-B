@@ -9,6 +9,7 @@ int main(){
     lista.Insert(7);
     lista.Insert(6);
     lista.Insert(8);
+    lista.Delete();
     lista.Print();
     cout<<lista.Find(5);
     return 0;
